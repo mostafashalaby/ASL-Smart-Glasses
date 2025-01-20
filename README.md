@@ -10,7 +10,7 @@ The prototype features a Fingerspelling Decoder that uses a webcam and Arduino t
 
 ![Prototype 1](assets/prototype1.png)
 
-![Prototype 2](assets/.png)
+![Prototype 2](assets/prototype2.png)
 # Key Features
 - **Fingerspelling Decoder**: A working prototype using a webcam to capture ASL fingerspelling and decode it into text.
 - **Arduino Integration**: Decoded letters are displayed on an Arduino-connected LCD screen, simulating a real-time translation process.
